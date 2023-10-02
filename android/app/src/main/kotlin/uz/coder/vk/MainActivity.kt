@@ -1,0 +1,6 @@
+package uz.coder.vk
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
