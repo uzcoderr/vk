@@ -1,0 +1,6 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect opacity="0.4" x="1.625" y="3.125" width="16.75" height="13.75" rx="4.125" stroke="#909499" stroke-width="0.25"/>
+<rect opacity="0.4" x="3.125" y="1.625" width="13.75" height="16.75" rx="4.125" stroke="#909499" stroke-width="0.25"/>
+<rect opacity="0.4" x="2.125" y="2.125" width="15.75" height="15.75" rx="4.125" stroke="#909499" stroke-width="0.25"/>
+<path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10 2.25C7.8599 2.25 5.9224 3.11745 4.51992 4.51992C3.11745 5.9224 2.25 7.8599 2.25 10C2.25 12.1401 3.11745 14.0776 4.51992 15.4801C5.9224 16.8826 7.8599 17.75 10 17.75C12.1401 17.75 14.0776 16.8826 15.4801 15.4801C16.8826 14.0776 17.75 12.1401 17.75 10C17.75 7.8599 16.8826 5.9224 15.4801 4.51992C14.0776 3.11745 12.1401 2.25 10 2.25Z" stroke="#FF3347" stroke-width="1.5"/>
+</svg>
